@@ -1,0 +1,56 @@
+  
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font size: 15px;
+}
+h1 {
+  color: black;
+  font-size: 30px;
+}
+
+h2 {
+  color: black;
+  font-size: 25px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h3{
+  color: black;
+  font-size: 15px;
+}
+
+/* Disable selection */
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+.text-content {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#highlight{
+  background-color: skyblue;
+}

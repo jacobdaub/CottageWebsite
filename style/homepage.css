@@ -1,0 +1,52 @@
+.main-body {
+  background-color: white;
+}
+.welcome{
+}
+.grid-container{
+  display: grid;
+  width:100%;
+}
+.muskokahaven{
+  grid-column: 1/ span 2;
+  grid-row-start: 1;
+}
+.wildflower{
+  grid-row-start:2;
+  grid-row-end:2;
+}
+.blueberry{
+  grid-column-start:2;
+  grid-row-start:2;
+}
+
+
+.centered {
+  text-align: center;
+}
+
+.column {
+  float: left;
+  width: 500px;
+}
+
+.row {
+  margin: auto;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.main-title {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.middle {
+  margin: auto;
+}
+
