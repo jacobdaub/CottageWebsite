@@ -1,7 +1,13 @@
-  
+:root{
+  --page-width:700px;
+}
+
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  font size: 15px;
+  font-family: Times;
+  font-size: 15px;
+  max-width: --page-width;
+  margin-right: auto;
+  margin-left: auto;
 }
 h1 {
   color: black;
@@ -19,7 +25,6 @@ h3{
   color: black;
   font-size: 15px;
 }
-
 /* Disable selection */
 .noselect {
   -webkit-touch-callout: none; /* iOS Safari */
@@ -47,10 +52,26 @@ a:active {
   text-decoration: none;
 }
 
-.text-content {
-  margin-left: 50px;
-  margin-right: 50px;
+.feature-content {
+
 }
+.vignette-photo{
+  width: 340px;
+  height: 200px;
+  float:left;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+.set-width{
+  width:700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Remember to ask Seb how this works.
+img:hover {
+  transform: scaleX(-1);
+}
+*/
 #highlight{
   background-color: skyblue;
 }
