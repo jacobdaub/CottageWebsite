@@ -20,6 +20,8 @@ include('../menu.php');
       <li>Brand new Drolet cookstove for heating and cooking</li>
       <li>Amazing sunset views on Gloucester Pool</li>
       <li>Direct access to the Trent-Severn waterway system with options to rent a boat as well</li>
+      <li class ="bold-text"> 300 feet of private waterfront!</li>
+      <li>Kayak, canoe, childs paddleboat included. With the option to request a paddleboard and additional kayaks</li>
   </ul>
 
   <h3>Sleeping - all beds come with pillows and blankets.</h3>
@@ -31,9 +33,9 @@ include('../menu.php');
   <img class = "vignette-photo" src = "../pics/lowres/mh/deck-bedroom-2.jpg">
   <p>The second bedroom downstairs on the east wing of the cottage. You will feel like you are in your own world while in here. The walls are stained with raw organic linseed oil giving the room a pleasant smell. This bedroom has a queen bed, a remote controlled ceiling fan, two mirrors and a dresser.
   </p>
-  <img style = "  width: 700px;
-  font-size:0;
-  float:left;
-  padding: 5px" src = "../pics/lowres/mh/linseed-bedroom.jpg">
+  <img style = "  width: 700px;" src = "../pics/lowres/mh/linseed-bedroom.jpg">
+  <p> The kids bedroom is one of two upstairs. The room has two single beds and an option to pull out a third. High ceilings, big windows, a ceiling fan, dresser, and mirror. </p>
+  <img class = "vignette-photo" src = "../pics/lowres/mh/kids-bedroom-1.jpg">
+  <img class = "vignette-photo" src = "../pics/lowres/mh/kids-bedroom-2.jpg">
 
 </div>

@@ -59,11 +59,12 @@ a:active {
   width: 340px;
   height: 200px;
   float:left;
-  padding: 5px;
+  padding-right: 5px;
   margin-bottom: 10px;
 }
 .set-width{
   width:700px;
+  padding: 5px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -74,4 +75,8 @@ img:hover {
 */
 #highlight{
   background-color: skyblue;
+}
+
+.bold-text{
+font-weight: bold;
 }
