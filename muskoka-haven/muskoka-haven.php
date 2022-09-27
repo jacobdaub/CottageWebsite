@@ -1,5 +1,6 @@
  <link rel="stylesheet" type="text/css" href="../style/general.css">
 <link rel="stylesheet" type="text/css" href="../style/menu.css">
+<link rel="stylesheet" type="text/css" href="../style/tabs.css">
  <?php
 include('../menu.php');
 
@@ -22,9 +23,11 @@ include('../menu.php');
       <li>Direct access to the Trent-Severn waterway system with options to rent a boat as well</li>
       <li class ="bold-text"> 300 feet of private waterfront!</li>
       <li>Kayak, canoe, childs paddleboat included. With the option to request a paddleboard and additional kayaks</li>
+      <li>Wifi included
   </ul>
 
-  <h3>Sleeping - all beds come with pillows and blankets.</h3>
+  <h3>Sleeping - All beds come with pillows and blankets.</h3>
+
   <p>
   The downstairs deck bedroom. Features a queen bed, and a sliding door facing the back of the cottage. This bedroom gets the morning sun. The bedroom also has a dresser, two mirrors, a nightstand and ceiling fan. 
   </p> 
@@ -34,8 +37,15 @@ include('../menu.php');
   <p>The second bedroom downstairs on the east wing of the cottage. You will feel like you are in your own world while in here. The walls are stained with raw organic linseed oil giving the room a pleasant smell. This bedroom has a queen bed, a remote controlled ceiling fan, two mirrors and a dresser.
   </p>
   <img style = "  width: 700px;" src = "../pics/lowres/mh/linseed-bedroom.jpg">
-  <p> The kids bedroom is one of two upstairs. The room has two single beds and an option to pull out a third. High ceilings, big windows, a ceiling fan, dresser, and mirror. </p>
+  <p> The kids bedroom is one of two upstairs bedrooms. The room has two single beds and an option to pull out a third. A small bathroom connects the kids bedroom and the master bedroom. The room has high ceilings, big windows, a ceiling fan, dresser, and mirror. </p>
   <img class = "vignette-photo" src = "../pics/lowres/mh/kids-bedroom-1.jpg">
   <img class = "vignette-photo" src = "../pics/lowres/mh/kids-bedroom-2.jpg">
+  <p> The master bedroom is located upstairs facing the water. It has its own private deck with seating where you can enjoy the sunset with your favourite drink. On the deck there is a small cooler. Also in the room is an HDTV with a bluray player and a collection of movies.</p>
+  <img style = "  width: 700px;" src = "../pics/lowres/mh/master-bedroom-1.jpg">
+   <img class = "vignette-photo" src = "../pics/lowres/mh/master-bedroom-2.jpg">
+  <img class = "vignette-photo" src = "../pics/lowres/mh/master-bedroom-3.jpg">
+
+  <h3>Kitchen</h3>
+  <p>
 
 </div>

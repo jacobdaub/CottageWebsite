@@ -16,7 +16,7 @@
       <div class="muskoka-haven">
         <a href="./muskoka-haven/muskoka-haven.php">
           <h2>Muskoka Haven</h2>
-          <img class = "fill-image" src = "pics/lowres/mh/master-bedroom.jpg" alt ="Muskoka Haven Master Bedroom">
+          <img class = "fill-image" src = "pics/lowres/mh/master-bedroom-1.jpg" alt ="Muskoka Haven Master Bedroom">
         </a>
       </div>
       <div class ="wildflower">
