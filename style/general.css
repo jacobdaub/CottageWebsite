@@ -1,7 +1,3 @@
-:root{
-  --page-width:700px;
-}
-
 body {
   font-family: Times;
   font-size: 15px;
@@ -24,6 +20,10 @@ h2 {
 h3{
   color: black;
   font-size: 15px;
+}
+p{
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 /* Disable selection */
 .noselect {
@@ -55,17 +55,45 @@ a:active {
 .feature-content {
 
 }
-.vignette-photo{
-  box-sizing: border-box;
-  width: 350px;
-  height: 200px;
-  float:left;
-  border: 5px solid white;
+.double-photo{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column-left {
+  display: inline-block;
+  border-style: solid;
+  width: 340px;
+  border-width: 3px;
+  margin-right: 2px;
+}
+.column-right {
+  display: inline-block;
+  border-style: solid;
+  width: 340px;
+  border-width: 3px;
+  margin-left: 2px;
 
 }
+
+.image-border{
+   border-style: solid;
+  width: 694px;
+  border-width: 3px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 .set-width{
   width:700px;
-  padding: 5px;
+  padding: 0px;
   margin-left: auto;
   margin-right: auto;
 }
