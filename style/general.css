@@ -1,29 +1,30 @@
 body {
   font-family: Times;
-  font-size: 15px;
+  font-size: 1em;
   max-width: --page-width;
   margin-right: auto;
   margin-left: auto;
 }
 h1 {
   color: black;
-  font-size: 30px;
+  font-size: 2em;
 }
 
 h2 {
   color: black;
-  font-size: 25px;
+  font-size: 1.5em;
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
 }
 h3{
   color: black;
-  font-size: 15px;
+  font-size: 1.25em;
 }
 p{
-  margin-top: 5px;
-  margin-bottom: 5px;
+  font-size: 1em;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 /* Disable selection */
 .noselect {
@@ -41,7 +42,7 @@ a:link {
 }
 
 a:visited {
-  text-decoration: none;
+  color: blue;
 }
 
 a:hover {
@@ -77,11 +78,24 @@ a:active {
 }
 
 .image-border{
-   border-style: solid;
-  width: 694px;
-  border-width: 3px;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  width:98%;
+  padding: 1%;
+}
+
+.feature-cottage{
+  width: 100%;
+  background-color: black;
+
+}
+.half-width{
+  display: inline-block;
+  width: calc(50% - 2px);
+}
+
+.inline{
+    display: inline-block;
+    white-space: nowrap;
+    margin-bottom: 0px;
 }
 
 /* Clear floats after image containers */
@@ -92,8 +106,7 @@ a:active {
 }
 
 .set-width{
-  width:700px;
-  padding: 0px;
+  max-width:700px;
   margin-left: auto;
   margin-right: auto;
 }
