@@ -83,9 +83,7 @@ include('../menu.php');
         <img class = "image-border" src = "../pics/mh/master-bedroom-3.jpg">
       </div>
     </div>
-  </div>
-
-    <div class = "feature-cottage">
+  </div><div class = "feature-cottage">
     <img class = "image-border" src = "../pics/mh/master-bedroom-1.jpg">
   </div>
   

@@ -36,5 +36,15 @@
       </a>
     </div>
   </div>
+  <h3>Links</h3>
+  <ul>
+    
+    <li> <a href = "./Trails.html"> Trails </a></li>
+    
+    
+    <li><a href = "https://roguemarinerentals.com/">Boat rentals</a></li>
+    
+
+
 </div>
 </html>
