@@ -1,30 +1,10 @@
-.grid-container{
-  display: grid;
-  grid-template-columns:auto auto;
-}
-.fill-image{
-  width: 700px;
-}
-.half-fill{
-  width: 350px;
-  height: auto;
-}
-.muskoka-haven{
-  grid-column:1 /span 2;
-}
-.blueberry{
-  grid-row-start:2;
-}
-.wildflower{
-  grid-row-start:2;
-}
 .centered {
   text-align: center;
 }
 
 
 .row {
-  margin: auto;
+  margin: : auto;
 }
 
 .row:after {
